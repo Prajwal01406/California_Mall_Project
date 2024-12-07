@@ -1,13 +1,18 @@
 /* Question
 
 Number of individuals exceeding the average age that purchased
-a)Toys
-b)Clothing
-c)Technology
+a)Toys.
+b)Clothing.
+c)Technology.
 
 with mode of payment as 
-a)Cash
+a)Cash.
 B)Credit Card.
+
+Conditiions - 
+1. mall should not be located in Los Angles.
+2. constructed after the year 1980.
+3.area is more than 100,000 sqm.
 
 */
 
