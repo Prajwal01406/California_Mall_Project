@@ -343,11 +343,11 @@ This detailed table accurately shows the answers for all the things that the abo
 
 # Visualization 
 
-As I was solving all the questions I found out that the resulted tables and answers wre very boring to analyse and understand. It looks so shabby and boring and I was not able to concentrate on the results.
+As I was solving all the questions I found out that the resulted tables and answers were very boring to analyse and understand. It looked so shabby and boring and I was not able to concentrate on the results.
 So in order to fix this issue I first **downloaded** all the results in **CSV** format and uploaded them to **Power Bi** a software used to visualize tabular data.
 Then I went ahead an created varous graphs and visuals to present this datain a more systematic and easily understandable form, which is also very attractive.
 
-You can download the solution file from [here](Visualisation\CA_Malls_sales.pbix)
+You can download the solution file from [here](Visualization/)
 
 The following images show the graphs.
 
@@ -358,4 +358,34 @@ The following images show the graphs.
 # What I learned
 
 
+I had some basic knowledge of SQL and databases, which I gained from watching videos and the free course made by [Luke Barousse](https://www.linkedin.com/in/luke-b/).
 
+However, this entire project helped me gain experience in mastering the practical skills of SQL and databases.
+
+I was able to create my own database and load the CSV files all by myself, which was very exciting work.
+
+I faced a lot of problems during this project, but I was able to solve every error and tackle every obstacle.
+
+I learned how to **visualize** the data using **Power BI**.
+
+In short I was able to learn practical skills of **SQL, Database and Power Bi** is a very dynamic way.
+
+# Conclusion
+
+### I was able to bring out several insights into the world of Shopping malls in the state of California.
+
+1. **Total Sales** made by all the shopping malls in California summed upto a whopping **$68.55 Million**.
+
+2. **Total Quantity** of goods sold by these malls summed up to **299,000 goods**.
+
+3. **Del Amo Fashion Centre** ranks as the best shopping mall in the state as it have the heighest share of customers and sales.
+
+4. **Credit Card** was the most prefered cashless mode of payment by both men and Women residing in California.
+
+5. **Top 3 best shopping malls** are 
+- Del Amo Fashion Centre.
+- South Coast Plaza. 
+- West Field Century City.
+
+This project helped me enchance various data analystical skills such as SQL, EXCEL, POSTGRE, VISUAL STUDIO CODE, POWER BI, GIT and GIT HUB.
+I believe that these insights will be helpful for people searching for best malls in the state of California.
