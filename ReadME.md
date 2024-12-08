@@ -351,7 +351,11 @@ You can download the solution file from [here](Visualisation\CA_Malls_sales.pbix
 
 The following images show the graphs.
 
- ![Visuals1](Visualization\Screenshot 2024-12-08 154200.png)
+ ![Visuals1](Visualization/Screenshot%202024-12-08%20154200.png)
 
-![Visuals2](Visualization\Screenshot 2024-12-08 154135.png)
+![Visuals2](Visualization/Screenshot%202024-12-08%20154135.png)
+
+# What I learned
+
+
 
