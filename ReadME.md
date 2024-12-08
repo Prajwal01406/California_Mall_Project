@@ -29,15 +29,15 @@ b)Clothing.
 c)Technology.
 With mode of payment as 
 a)Cash.
-B)Credit Card.
+b)Credit Card.
 
-Conditiions for question 6 & 7 - 
+Conditions for question 6 & 7 - 
 1.mall should not be located in Los Angles.
 2.constructed after the year 1980.
 3.area is more than 100,000 sqm.
 
 
-**These questions were developed by myself, [Tavishi Mahajan](https://www.linkedin.com/in/tavishi-mahajan-055763319/) and [Kabeer Kulkarni](https://www.linkedin.com/in/kabeer-kulkarni-aa0b76331/).**
+**These questions were developed by [Tavishi Mahajan](https://www.linkedin.com/in/tavishi-mahajan-055763319/), [Kabeer Kulkarni](https://www.linkedin.com/in/kabeer-kulkarni-aa0b76331/) and myself.**
 
 ## Source ##
 The source for the data used in this project is **Kaggle** and you can download all the excel files from [here](https://www.kaggle.com/datasets/captaindatasets/istanbul-mall).
@@ -253,7 +253,7 @@ Del Amo Fashion Centre tops the list again! by bagging 20% of customers.
 
 ### 6.Numer of males and females below the average age who purchased goods worth more than 1200 with cash.
 
-### Conditiions - 
+### Conditions - 
 ### 1. mall should not be located in Los Angles.
 ### 2. constructed after the year 1980.
 ### 3.area is more than 100,000 sqm.
@@ -298,8 +298,8 @@ The results of this query are.
 
 There are only 523 Women and 368 Men who fall under the conditions and have paid cash to purchase goods worth > $1200.
 
-### 7.Number of individuals exceeding the average age that purchased a)Toys.b)Clothing.c)Technology.With mode of payment as a)Cash.B)Credit Card.
-### Conditiions - 
+### 7.Number of individuals exceeding the average age that purchased a)Toys.b)Clothing.c)Technology.With mode of payment as a)Cash.b)Credit Card.
+### Conditions - 
 ### 1. mall should not be located in Los Angles.
 ### 2. constructed after the year 1980.
 ### 3.area is more than 100,000 sqm.
